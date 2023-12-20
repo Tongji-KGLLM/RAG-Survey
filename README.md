@@ -166,6 +166,8 @@ We would like to extend our deepest gratitude to the following authors and resea
 - [Jerry Liu](https://jerryjliu.github.io)
 - [Danqi Chen](https://acl2023-retrieval-lm.github.io)
 - [Huanyong Liu](https://liuhuanyong.github.io)
+- ...
+  
 
 Without their insightful research, invaluable experience, and generous sharing, we would not have been able to present the material associated with RAG as extensively in our survey. We reiterate our profound appreciation to all the researchers, industry professionals, and knowledge sharers referenced above. Additionally, we extend our thanks to everyone who has provided us with invaluable insights.
 

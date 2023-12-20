@@ -1,13 +1,12 @@
 
 # RAG-Survey
----
+
 
 **🚀(New) [18 Dec 2023] We release the RAG Survey on arXiv**
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)**
 
 
 
----
 If you find our survey useful for your research, please cite the following paper:
 ```
 @article{RAGSurvey,
@@ -21,27 +20,25 @@ If you find our survey useful for your research, please cite the following paper
 
 
 ## Timeline of RAG
----
+
 ![rag-timeline](images/timeline.jpg)
 
 
 ## RAG vs Fine-tuning
----
+
 ![rag_FT](images/RAG_FT.png)
 
 ##  Paradigm of RAG 
----
 ![rag-paradigm](images/fram_compare.png)
 
 ##  Taxonomy of Core Components
----
 ![Taxonomy](images/RAG_mindMap.png)
 
 # Table of Contents
----
 
 ## Augmentation Stage
----
+
+
 ### Pre-training
 1.Improving language models by retrieving from trillions of tokens  [[paper]](https://markdown.com.cn)[[code]](https://markdown.com.cn)
 
@@ -93,7 +90,8 @@ Composing retrieval and language models for knowledge-intensive NLP  [[paper]](h
 6.In-Context Retrieval-Augmented Language Models [[paper]](https://arxiv.org/abs/2302.00083)
 
 ## Augmentation Data 
----
+
+
 ### Unstructured Data
 1.UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation[[paper]](https://arxiv.org/abs/2303.08518)[[code]](https://github.com/microsoft/LMOps)
 
@@ -124,7 +122,8 @@ Composing retrieval and language models for knowledge-intensive NLP [[paper]](ht
 
 
 ## Augmentation Process
----
+
+
 ### Once Retrieval
 1.Retrieval-augmented generation for knowledge-intensive nlp tasks [[paper]](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)
 
@@ -160,7 +159,8 @@ Composing retrieval and language models for knowledge-intensive NLP [[paper]](ht
 
 
 ## Acknowledgments
----
+
+
 We would like to extend our deepest gratitude to the following authors and researchers. Their exceptional contributions in the field of RAG, along with their willingness to share their findings, have been truly commendable. Their exemplary work has profoundly inspired us and provided us with the necessary resources to compile and summarize the pertinent research on RAG in our survey.
 
 - [Jerry Liu](https://jerryjliu.github.io)

@@ -1,6 +1,7 @@
 
 # RAG-Survey
 
+>We are working hard to improve and update, more content will be presented soon. 😊 Stay tuned!
 
 **🚀(New) [18 Dec 2023] We release the RAG Survey on arXiv**
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)**

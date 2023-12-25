@@ -90,6 +90,10 @@ Composing retrieval and language models for knowledge-intensive NLP  [[paper]](h
 
 6.In-Context Retrieval-Augmented Language Models [[paper]](https://arxiv.org/abs/2302.00083)
 
+7.Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering [[paper]](https://arxiv.org/abs/2306.04136)
+
+8.Knowledge-Augmented Large Language Models for Personalized Contextual Query Suggestion [[paper]](https://arxiv.org/abs/2311.06318)
+
 ## Augmentation Data 
 
 
@@ -108,6 +112,10 @@ Composing retrieval and language models for knowledge-intensive NLP  [[paper]](h
 3.KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases [[paper]](https://arxiv.org/abs/2308.11761)
 
 4.Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [[paper]](https://arxiv.org/abs/2304.11116)
+
+5.Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering [[paper]](https://arxiv.org/abs/2306.04136)
+
+6.Knowledge-Augmented Large Language Models for Personalized Contextual Query Suggestion [[paper]](https://arxiv.org/abs/2311.06318)
 
 ### LLM Generated Content
 1.Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory [[paper]](https://arxiv.org/abs/2305.02437)
@@ -135,6 +143,7 @@ Composing retrieval and language models for knowledge-intensive NLP [[paper]](ht
 4.Learning to Retrieve In-Context Examples for Large Language Models.[[paper]](https://arxiv.org/pdf/2307.07164.pdf)
 
 5.Few-shot Learning with Re-trieval Augmented Language Models [[paper]](https://arxiv.org/pdf/2208.03299.pdf)
+
 6.Replug: Retrieval-augmented black-box language models [[paper]](https://arxiv.org/pdf/2301.12652.pdf)
 
 7.Recitation-augmented language models[[paper]](https://arxiv.org/pdf/2210.01296.pdf)
@@ -149,6 +158,8 @@ Composing retrieval and language models for knowledge-intensive NLP [[paper]](ht
 3.Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy[[paper]](https://arxiv.org/abs/2305.15294)
 
 4.RETRIEVAL-GENERATION SYNERGY AUGMENTED LARGE LANGUAGE MODELS [[paper]](https://arxiv.org/abs/2310.05149)
+
+5.Knowledge-Augmented Language Model Verification [[paper]](https://arxiv.org/abs/2310.12836)
 
 
 ### Adaptive Retrieval

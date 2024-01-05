@@ -3,7 +3,7 @@
 
 >We are working hard to improve and update, more content will be presented soon. 😊 Stay tuned!
 
-🚀**Our [Slide](RAG_Slide_ENG.pdf) is available now !**
+🚀**Our [Slide](assets/RAG_Slide_ENG.pdf) is available now !**
 
 🚀**Check our RAG Survey on Arxiv (Ongoing update)** 
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)**

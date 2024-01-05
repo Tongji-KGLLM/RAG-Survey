@@ -5,7 +5,7 @@
 
 🚀**Our [Slide](PPT_ENG_0105.pptx) is available now !**
 
-🚀**Check our RAG Survey on Arxiv (Ongoing update)  
+🚀**Check our RAG Survey on Arxiv (Ongoing update)** 
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)**
 
 If you find our survey useful for your research, please cite the following paper:
@@ -23,7 +23,7 @@ If you find our survey useful for your research, please cite the following paper
 
 # TOC
 
-[toc]
+
 
 ## What is  RAG ?
 
@@ -45,7 +45,7 @@ RAG significantly improves the precision and pertinence of content by first **re
 
 RAG concept, introduced by Lewis in 2020, has rapidly evolved, marking distinct stages in its research journey. Initially, the research aimed to bolster language models by infusing them with additional knowledge during the **pre-training phase**. The launch of ChatGPT sparked a heightened interest in leveraging large models for in-depth contextual understanding, accelerating RAG's development **in inference stage**. As researchers delved deeper into the capabilities of large language models (LLMs), the focus shifted toward enhancing their controllability and reasoning skills to keep pace with growing demands. The advent of GPT-4 marked a significant milestone, revolutionizing RAG with a novel approach that blends it with **fine-tuning techniques** while continuing to refine pre-training strategies.
 
-![rag-timeline-tree](images/RAG_Timeline.png)
+![rag-timeline-tree](images/RAG_timeline.png)
 
 > Timeline tree of RAG  research
 
@@ -274,7 +274,7 @@ Composing retrieval and language models for knowledge-intensive NLP [[paper]](ht
 
 We're incredibly thankful for the warm reception and positive feedback we've received regarding the figures in the survey. It's always a pleasure to share insights from our corner of the data visualization world.
 
-Our go-to tool for creating these visuals is [Figma]([https://www.figma.com](https://www.figma.com/)). We're currently in the midst of refining our charts, ensuring they are as informative and user-friendly as possible.
+Our go-to tool for creating these visuals is [Figma](https://www.figma.com/). We're currently in the midst of refining our charts, ensuring they are as informative and user-friendly as possible.
 
 With an eye toward the future and a commitment to the spirit of collaboration, we're also exploring the possibility of releasing our chart templates as open-source template in Figma. Keep an eye on the repo for updates on this exciting initiative
 

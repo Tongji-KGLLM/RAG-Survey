@@ -3,19 +3,20 @@
 
 >We are working hard to improve and update, more content will be presented soon. 😊 Stay tuned!
 
-🚀**Our [Slide](PPT_ENG_0105.pptx) is available now !**
+🚀**Our [Slide](RAG_Slide_ENG.pdf) is available now !**
 
 🚀**Check our RAG Survey on Arxiv (Ongoing update)** 
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)**
 
 If you find our survey useful for your research, please cite the following paper:
 ```
-@article{RAGSurvey,
+@misc{gao2024retrievalaugmented,
       title={Retrieval-Augmented Generation for Large Language Models: A Survey}, 
-      author={Yunfan Gao and Yun Xiong and Xinyu Gao and Kangxiang Jia and Jinliu Pan and Yuxi Bi and Yi Dai and Jiawei Sun and Meng Wang and Haofen Wang},
-      year={2023},
-    journal={arXiv preprint arXiv:2312.10997},
-    url={http://arxiv.org/abs/2312.10997}
+      author={Yunfan Gao and Yun Xiong and Xinyu Gao and Kangxiang Jia and Jinliu Pan and Yuxi Bi and Yi Dai and Jiawei Sun and Qianyu Guo and Meng Wang and Haofen Wang},
+      year={2024},
+      eprint={2312.10997},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 

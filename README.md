@@ -5,8 +5,9 @@
 
 🚀**Our [Slide](assets/RAG_Slide_ENG.pdf) is available now !**
 
-🚀**Check our RAG Survey on Arxiv (Ongoing update)** 
-**["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)**
+🚀**Check our RAG Survey on Arxiv** (Ongoing update)
+**["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)** 
+download the latest verison [[Paper]](assets/RAG_Survey.pdf)
 
 If you find our survey useful for your research, please cite the following paper:
 ```
@@ -28,7 +29,7 @@ If you find our survey useful for your research, please cite the following paper
     - [Naive RAG](#naive-rag)
     - [Advanced RAG](#advanced-rag)
     - [Modular RAG](#modular-rag)
-  - [How to do augementation ?](#how-to-do-augementation-)
+  - [How to Do Augementation ?](#how-to-do-augementation-)
   - [RAG or Fine-tuning？](#rag-or-fine-tuning)
   - [How to Evaluate RAG ?](#how-to-evaluate-rag-)
   - [Prospects](#prospects)
@@ -36,6 +37,7 @@ If you find our survey useful for your research, please cite the following paper
     - [Multimodal Expansion](#multimodal-expansion)
     - [The Ecosystem of RAG](#the-ecosystem-of-rag)
 - [RAG Paper List](#rag-paper-list)
+  - [Augmentation Stage](#augmentation-stage)
     - [Pre-training](#pre-training)
     - [Fine-tuning](#fine-tuning)
     - [Inference](#inference)
@@ -46,6 +48,7 @@ If you find our survey useful for your research, please cite the following paper
   - [Augmentation Process](#augmentation-process)
     - [Once Retrieval](#once-retrieval)
     - [Iterative Retrieval](#iterative-retrieval)
+    - [Recursive Retrieval](#recursive-retrieval)
     - [Adaptive Retrieval](#adaptive-retrieval)
   - [MISC](#misc)
     - [Visualization](#visualization)
@@ -108,7 +111,7 @@ However, Modular RAG did not emerge suddenly; there is a relationship of inherit
 
 
 
-## <a name='Howtodoaugementation'></a>How to do augementation ?
+## <a name='Howtodoaugementation'></a>How to Do Augementation ?
 
 To build a good RAG system, where the augmentation part is key, three critical questions need to be considered: 
 
@@ -181,6 +184,7 @@ The application of RAG is no longer confined to question-answering systems; its 
 
 # RAG Paper List
 
+## Augmentation Stage
 
 ### <a name='Pre-training'></a>Pre-training
 1.Improving language models by retrieving from trillions of tokens  [[paper]](https://markdown.com.cn)[[code]](https://markdown.com.cn)
@@ -292,6 +296,10 @@ Composing retrieval and language models for knowledge-intensive NLP [[paper]](ht
 
 4.RETRIEVAL-GENERATION SYNERGY AUGMENTED LARGE LANGUAGE MODELS [[paper]](https://arxiv.org/abs/2310.05149)
 
+### Recursive Retrieval
+1.Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions [[paper]](https://arxiv.org/abs/2212.10509)[[code]](https://github.com/stonybrooknlp/ircot)
+
+2.Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models [[paper]](https://arxiv.org/abs/2310.14696)
 
 ### <a name='AdaptiveRetrieval'></a>Adaptive Retrieval
 1.Active Retrieval Augmented Generation[[paper]](https://arxiv.org/abs/2305.06983)[[code]](https://github.com/jzbjyb/FLARE)

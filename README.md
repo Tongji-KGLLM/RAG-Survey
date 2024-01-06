@@ -3,11 +3,12 @@
 
 >We are working hard to improve and update, more content will be presented soon. 😊 Stay tuned!
 
-🚀**Our [Slide](assets/RAG_Slide_ENG.pdf) is available now !**
+🚀**Our Slide is Available Now !** [[Slide]](assets/RAG_Slide_ENG.pdf)
 
 🚀**Check our RAG Survey on Arxiv** (Ongoing update)
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)** 
-download the latest verison [[Paper]](assets/RAG_Survey.pdf)
+
+Download the latest verison [[Paper]](assets/RAG_Survey.pdf)
 
 If you find our survey useful for your research, please cite the following paper:
 ```
@@ -20,8 +21,7 @@ If you find our survey useful for your research, please cite the following paper
       primaryClass={cs.CL}
 }
 ```
-
-
+**TOC**
 <!-- vscode-markdown-toc -->
 - [RAG-Survey](#rag-survey)
   - [What is  RAG ?](#what-is--rag-)

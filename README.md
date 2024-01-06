@@ -8,8 +8,6 @@
 🚀**Check our RAG Survey on Arxiv** (Ongoing update)
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)** 
 
-Download the latest verison [[Paper]](assets/RAG_Survey.pdf)
-
 If you find our survey useful for your research, please cite the following paper:
 ```
 @misc{gao2024retrievalaugmented,

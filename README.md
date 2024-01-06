@@ -28,7 +28,7 @@ If you find our survey useful for your research, please cite the following paper
     - [Advanced RAG](#advanced-rag)
     - [Modular RAG](#modular-rag)
   - [How to Do Augementation ?](#how-to-do-augementation-)
-  - [RAG or Fine-tuning？](#rag-or-fine-tuning)
+  - [RAG or Fine-tuning ？](#rag-or-fine-tuning-)
   - [How to Evaluate RAG ?](#how-to-evaluate-rag-)
   - [Prospects](#prospects)
     - [Exsting Challenges](#exsting-challenges)
@@ -132,7 +132,7 @@ Starting from the above three questions, we organize the augmentation as follow:
 
 > Taxnonomy of RAG's core components
 
-## <a name='RAGorFine-tuning'></a>RAG or Fine-tuning？
+## <a name='RAGorFine-tuning'></a>RAG or Fine-tuning ？
 
 In addition to RAG, the main optimization strategies for LLMs also include Prompt Engineering and Fine-tuning (FT). Each has its own unique features. Depending on their reliance on external knowledge and requirements for model adjustment, they each have suitable scenarios.
 

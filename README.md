@@ -130,7 +130,7 @@ Starting from the above three questions, we organize the augmentation as follow:
 
 ![rag-mindmap](images/mindmap.png)
 
-> Taxnonomy of RAG's core components
+> Taxonomy of RAG's core components
 
 ## <a name='RAGorFine-tuning'></a>RAG or Fine-tuning ？
 

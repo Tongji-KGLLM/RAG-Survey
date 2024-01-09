@@ -299,6 +299,8 @@ Composing retrieval and language models for knowledge-intensive NLP [[paper]](ht
 
 2.Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models [[paper]](https://arxiv.org/abs/2310.14696)
 
+3. WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia [[paper]](https://arxiv.org/abs/2305.14292) [[code]](https://github.com/stanford-oval/WikiChat)
+
 ### <a name='AdaptiveRetrieval'></a>Adaptive Retrieval
 1.Active Retrieval Augmented Generation[[paper]](https://arxiv.org/abs/2305.06983)[[code]](https://github.com/jzbjyb/FLARE)
 

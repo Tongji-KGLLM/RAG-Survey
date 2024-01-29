@@ -3,9 +3,17 @@
 
 >We are working hard to improve and update, more content will be presented soon. 😊 Stay tuned!
 
-🚀**Our Slide is Available Now !** [[Slide]](assets/RAG_Slide_ENG.pdf)
+🚀[Jan 2024] **Check our Insights on Modular RAG and RAG Flow !** 
+[Modular RAG and RAG Flow: Part Ⅰ](https://medium.com/@yufan1602/modular-rag-and-rag-flow-part-ⅰ-e69b32dc13a3)
+[Modular RAG and RAG Flow: Part II](https://medium.com/@yufan1602/modular-rag-and-rag-flow-part-ii-77b62bf8a5d3)
 
-🚀**Check our RAG Survey on Arxiv** (Ongoing update)
+Modular RAG Technical Map
+![modular_map](images/Modular_RAG_map.jpg)
+
+
+**Our Slide is Available Now !** [[Slide]](assets/RAG_Slide_ENG.pdf)
+
+**Check our RAG Survey on Arxiv** (Ongoing update)
 **["Retrieval-Augmented Generation for Large Language Models: A Survey"](https://arxiv.org/pdf/2312.10997.pdf)** 
 
 If you find our survey useful for your research, please cite the following paper:

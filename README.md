@@ -227,6 +227,7 @@ The application of RAG is no longer confined to question-answering systems; its 
 9.Augmentation-Adapted Retriever Improves Generalization of Language 
 Models as Generic Plug-In [[paper]](https://arxiv.org/abs/2305.17331)[[code]](https://github.com/OpenMatch/Augmentation-Adapted-Retriever)
 
+10.KAUCUS: Knowledge Augmented User Simulators for Training Language Model Assistants[[paper]](https://aclanthology.org/2024.scichat-1.5.pdf)
 
 ### <a name='Inference'></a>Inference
 1.Generalization through Memorization: Nearest Neighbor Language Models[[paper]](https://arxiv.org/abs/1911.00172)

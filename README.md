@@ -328,7 +328,7 @@ RAG significantly improves the precision and pertinence of content by first **re
 
 RAG concept, introduced by Lewis in 2020, has rapidly evolved, marking distinct stages in its research journey. Initially, the research aimed to bolster language models by infusing them with additional knowledge during the **pre-training phase**. The launch of ChatGPT sparked a heightened interest in leveraging large models for in-depth contextual understanding, accelerating RAG's development **in inference stage**. As researchers delved deeper into the capabilities of large language models (LLMs), the focus shifted toward enhancing their controllability and reasoning skills to keep pace with growing demands. The advent of GPT-4 marked a significant milestone, revolutionizing RAG with a novel approach that blends it with **fine-tuning techniques** while continuing to refine pre-training strategies.
 
-![rag-timeline-tree](images/Tech_tree.png)
+![rag-timeline-tree](images/Survey/Tech_tree.png)
 
 > Technology tree of RAG  research
 
@@ -432,7 +432,7 @@ The application of RAG is no longer confined to question-answering systems; its 
 
  At the same time, the RAG technology stack is experiencing a boom. In addition to well-known tools like **Langchain** and **LlamaIndex**, the market is seeing an emergence of more targeted RAG tools, for example: those **customized** for specific use cases to meet more focused scenario requirements; those **simplified** for use to further lower the barrier to entry; and those specialized in functionality, gradually aiming towards **production environments.**
 
-![RAG-summary](images/RAG_summary.png)
+![RAG-summary](images/Survey/RAG_summary.png)
 
 
 

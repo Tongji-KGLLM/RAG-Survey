@@ -439,6 +439,7 @@ The application of RAG is no longer confined to question-answering systems; its 
 ### <a name='RAGPaperList'></a>RAG Paper List
 Check OpenRAG Base
 
+10.KAUCUS: Knowledge Augmented User Simulators for Training Language Model Assistants[[paper]](https://aclanthology.org/2024.scichat-1.5.pdf)
 
 
 
